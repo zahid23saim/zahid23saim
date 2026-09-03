@@ -43,3 +43,5 @@ Plus: LLM evaluation & benchmark authoring, factuality & STEM auditing, test wri
 ---
 
 <sub>🌐 English · Hindi · Tamil · Marathi &nbsp;|&nbsp; Open to remote, project-based software & AI-evaluation work.</sub>
+
+<!-- profile -->
