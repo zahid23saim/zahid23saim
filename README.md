@@ -2,9 +2,9 @@
 
 **Software Developer · AI Evaluation & Benchmark Design** — based in Maharashtra, India.
 
-Full-stack developer with an MCA and 3+ years of dedicated Python development. Since Aug 2026 I've been a **Handshake AI Fellow on Project Dynamo**, building Terminal-Bench-style tasks — Docker environments, reference solutions, and deterministic pytest verifiers — that reveal where frontier AI coding agents fail. I build in Python, .NET, and SQL, and I write about it.
+Full-stack developer with an MCA and 3+ years of dedicated Python development. Since Jul 2026 I've been a **Handshake AI Fellow on Project Dynamo**, building Terminal-Bench-style tasks — Docker environments, reference solutions, and deterministic pytest verifiers — that reveal where frontier AI coding agents fail. I build in Python, .NET, and SQL, and I write about it.
 
-📊 **Project Dynamo, as of Sep 2026:** 97 pull requests (new tasks and reworks) · 83 task repositories · all 16 benchmark categories · 83 PRs passing Dynamo's full automated check suite
+📊 **Project Dynamo, as of Sep 2026:** 120 tasks completed · 97 pull requests (new tasks and reworks) · 83 task repositories · all 16 benchmark categories · 83 PRs passing Dynamo's full automated check suite
 
 🔗 **[Portfolio](https://zahid23saim.github.io)**  ·  ✍️ **[Technical Writing](https://dev.to/zahid23saim)**  ·  💼 **[LinkedIn](https://www.linkedin.com/in/zahid-ahmed-5a4129424/)**  ·  📄 **[CV](https://zahid23saim.github.io/Zahid-Ahmed-CV.pdf)**  ·  ✉️ zahid23saim@gmail.com
 
