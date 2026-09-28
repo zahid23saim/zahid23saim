@@ -1,50 +1,78 @@
-# Hi, I'm Zahid Ahmed 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
+  <img alt="Zahid Ahmed. Software Developer, AI Evaluation. I build tested software, and the evals that keep AI honest." src="assets/banner-light.png" width="100%">
+</picture>
 
-**Software Developer · AI Evaluation & Benchmark Design** — based in Maharashtra, India.
+<p>
+  <a href="https://zahid23saim.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-zahid23saim.github.io-4c8bf5?style=flat-square&logo=githubpages&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/zahid-ahmed-5a4129424/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Zahid%20Ahmed-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://dev.to/zahid23saim"><img alt="Writing on dev.to" src="https://img.shields.io/badge/dev.to-writing-0a0a0a?style=flat-square&logo=devdotto&logoColor=white"></a>
+  <a href="https://zahid23saim.github.io/Zahid-Ahmed-CV.pdf"><img alt="CV (PDF)" src="https://img.shields.io/badge/CV-PDF-1a7f37?style=flat-square&logo=readdotcv&logoColor=white"></a>
+  <a href="mailto:zahid23saim@gmail.com"><img alt="Email zahid23saim@gmail.com" src="https://img.shields.io/badge/Email-zahid23saim%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+</p>
 
-Full-stack developer with an MCA and 3+ years of dedicated Python development. Since Jul 2026 I've been a **Handshake AI Fellow**, designing software tasks, reference solutions, and automated tests that train and evaluate frontier AI coding models. I build in Python, .NET, and SQL, and I write about it.
+<img align="right" width="400" src="assets/coding.gif" alt="A code editor types zahid.py, a Python dataclass describing Zahid, then runs it and prints: tested code + evals that catch regressions">
 
-🔗 **[Portfolio](https://zahid23saim.github.io)**  ·  ✍️ **[Technical Writing](https://dev.to/zahid23saim)**  ·  💼 **[LinkedIn](https://www.linkedin.com/in/zahid-ahmed-5a4129424/)**  ·  📄 **[CV](https://zahid23saim.github.io/Zahid-Ahmed-CV.pdf)**  ·  ✉️ zahid23saim@gmail.com
+### Hi, I'm Zahid 👋
 
----
+Software developer and AI-evaluation specialist in Maharashtra, India. I like work you can check: tests that pass, evals that catch regressions, and verdicts backed by evidence.
 
-### 🛠️ Tech
+- 🔭 **Now:** Handshake AI Fellow, designing software tasks, reference solutions and automated tests that train and evaluate frontier AI coding models
+- 🧪 **Before:** evaluated multilingual LLM and speech output at Appen, in English, Hindi, Tamil and Marathi
+- 🛠️ **I build with:** Python, C# and .NET, SQL and Oracle PL/SQL, JavaScript on Cloudflare Workers
+- 📫 **Open to:** remote software and AI-evaluation work
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle%20PL%2FSQL-F80000?style=flat&logo=oracle&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+<br clear="right">
 
-Plus: AI coding-task design, automated test design, LLM evaluation, factuality & STEM auditing, Slack apps, database optimization.
+### Featured work
 
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/zahid23saim/sxs-judge"><img width="380" src="assets/projects/sxs-judge.png" alt="SxS Judge: the verdict card, score bars and hard-check chips for two AI answers"></a>
+      <h4><a href="https://github.com/zahid23saim/sxs-judge">SxS Judge</a></h4>
+      Side-by-side grading for AI answers: code-level hard checks, a blind Gemini rubric judge with verified quotes, and an order-swap bias check.<br>
+      <sub>React · TypeScript · Gemini API · <a href="https://ai.studio/apps/1216e7fc-6a53-4942-83dd-a9f23c68b5a9?fullscreenApplet=true">Live app</a></sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/zahid23saim/block-and-bell"><img width="380" src="assets/projects/block-and-bell.png" alt="Block and Bell on three phones: open a box, ask for line clear, give line clear"></a>
+      <h4><a href="https://github.com/zahid23saim/block-and-bell">Block &amp; Bell</a></h4>
+      A real-time railway-signalling game for 2 to 4 players where each player can only see their own box. Every shift is solved before it's printed.<br>
+      <sub>JavaScript · Cloudflare Workers · Durable Objects · <a href="https://block-and-bell.zahid23saim.workers.dev">Play</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/zahid23saim/llm-eval-harness"><img width="380" src="assets/projects/llm-eval-harness.png" alt="llm-eval-harness catching a regression: accuracy drops from 100% to 67%, q3 and q5 regressed"></a>
+      <h4><a href="https://github.com/zahid23saim/llm-eval-harness">llm-eval-harness</a></h4>
+      A dependency-free harness that scores LLM answers against a gold set, with per-question match rules, and fails CI when answers regress.<br>
+      <sub>Python · pytest · <a href="https://zahid23saim.github.io/demo.html">Demo</a></sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/zahid23saim/word-limit-checker"><img width="380" src="assets/projects/word-limit-checker.png" alt="Word Limit Checker: /wordcount 50 replies with 82 words, 32 over the 50-word limit"></a>
+      <h4><a href="https://github.com/zahid23saim/word-limit-checker">Word Limit Checker</a></h4>
+      A Slack slash command that checks a draft against a word limit. Least privilege: only the <code>commands</code> scope, and every request is signature-verified.<br>
+      <sub>JavaScript · Slack API · Cloudflare Workers</sub>
+    </td>
+  </tr>
+</table>
 
-### 📌 Featured Projects
+**Also:** [LLM Picker](https://share.gemini.google/WZ9XPSxU4x1G), an interactive chart for choosing a model by accuracy, cost and speed · [aspnet-minimal-api](https://github.com/zahid23saim/aspnet-minimal-api), a tested .NET 8 API · [plsql-bulk-examples](https://github.com/zahid23saim/plsql-bulk-examples), row-by-row loads made fast with `BULK COLLECT` and `FORALL`
 
-| Project | What it is | Built with |
-|---------|------------|------------|
-| **[Block & Bell](https://github.com/zahid23saim/block-and-bell)** | A real-time railway-signaling game for 2–4 players where each player's orders appear only on a neighbor's screen. A server-authoritative backend sends each seat only its own view, and every shift is solved before it's printed. [Play →](https://block-and-bell.zahid23saim.workers.dev) | JavaScript · Cloudflare Workers · Durable Objects |
-| **[Word Limit Checker](https://github.com/zahid23saim/word-limit-checker)** | A Slack app: `/wordcount 50 <draft>` posts the word count and how far the draft is over or under the limit. Least privilege: only the `commands` scope, no stored bot token, every request signature-verified. | JavaScript · Slack API · Cloudflare Workers |
-| **[llm-eval-harness](https://github.com/zahid23saim/llm-eval-harness)** | A dependency-free harness for scoring LLM answers against a gold set — per-question match rules, validation, CI-friendly. [Live demo →](https://zahid23saim.github.io/demo.html) | Python · pytest |
-| **[aspnet-minimal-api](https://github.com/zahid23saim/aspnet-minimal-api)** | A tested ASP.NET Core (.NET 8) task API — full CRUD, validation, in-memory integration tests (7/7 passing). | C# · ASP.NET Core · xUnit |
-| **[plsql-bulk-examples](https://github.com/zahid23saim/plsql-bulk-examples)** | Turning a slow row-by-row Oracle load into fast batched `BULK COLLECT` + `FORALL`, with `SAVE EXCEPTIONS`. | Oracle PL/SQL |
+### Tech
 
----
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,cs,dotnet,java,js,ts,react,nodejs,docker,git,githubactions,linux,cloudflare&perline=13" alt="Python, C#, .NET, Java, JavaScript, TypeScript, React, Node.js, Docker, Git, GitHub Actions, Linux, Cloudflare"></a>
 
-### ✍️ Writing
+<sub>Also: SQL and Oracle PL/SQL · pytest · xUnit · Slack API · Gemini API · LLM evaluation · factuality and STEM auditing</sub>
 
-- [Catch LLM Regressions Before Your Users Do — a Tiny CI Gate for LLM Output](https://dev.to/zahid23saim/catch-llm-regressions-before-your-users-do-a-tiny-ci-gate-for-llm-output-8bg)
-- [Automating LLM Answer Evaluation with a Small Python Scoring Script](https://dev.to/zahid23saim/automating-llm-answer-evaluation-with-a-small-python-scoring-script-4f8o)
-- [Speeding Up a Slow PL/SQL Routine with BULK COLLECT and FORALL](https://dev.to/zahid23saim/speeding-up-a-slow-plsql-routine-with-bulk-collect-and-forall-5c0l)
+### Latest writing
+
+<!-- BLOG-POST-LIST:START -->
+- [Catch LLM regressions before your users do — a tiny CI gate for LLM output](https://dev.to/zahid23saim/catch-llm-regressions-before-your-users-do-a-tiny-ci-gate-for-llm-output-8bg)
 - [Building a Tested ASP.NET Core Minimal API in One File](https://dev.to/zahid23saim/building-a-tested-aspnet-core-minimal-api-in-one-file-20c1)
 - [What I Learned Evaluating LLMs Across Four Languages](https://dev.to/zahid23saim/what-i-learned-evaluating-llms-across-four-languages-956)
+- [Speeding Up a Slow PL/SQL Routine with BULK COLLECT and FORALL](https://dev.to/zahid23saim/speeding-up-a-slow-plsql-routine-with-bulk-collect-and-forall-5c0l)
+- [Automating LLM Answer Evaluation with a Small Python Scoring Script](https://dev.to/zahid23saim/automating-llm-answer-evaluation-with-a-small-python-scoring-script-4f8o)
+<!-- BLOG-POST-LIST:END -->
 
----
-
-<sub>🌐 English · Hindi · Tamil · Marathi &nbsp;|&nbsp; Open to remote, project-based software & AI-evaluation work.</sub>
-
-<!-- profile -->
+<sub>🌐 English · Hindi · Tamil · Marathi</sub>
