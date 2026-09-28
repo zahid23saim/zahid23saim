@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
-  <img alt="Zahid Ahmed. Software Developer, AI Evaluation. I build tested software, and the evals that keep AI honest." src="assets/banner-light.png" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.gif">
+  <img alt="Zahid Ahmed, with an animated coding avatar that types &lt;ZA/&gt;. Software Developer, AI Evaluation. I build tested software, and the evals that keep AI honest." src="assets/header-light.gif" width="100%">
 </picture>
 
 <p>
