@@ -26,6 +26,9 @@ Software developer and AI-evaluation specialist in Maharashtra, India. I like wo
 
 ### Featured work
 
+**[One Sky](https://github.com/zahid23saim/one-sky)** — A co-op sky game for 1–8 players. Route planes across phones, land together, and survive changing weather. [Play the game](https://one-sky-game.zahid23saim.chatgpt.site/).
+
+
 <table>
   <tr>
     <td width="50%" valign="top">
